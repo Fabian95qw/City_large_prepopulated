@@ -1,0 +1,47 @@
+[h1] City_large_prepoulated[/h1] 
+As the title states, a map, thats a big city, already prepupulated.
+
+[b]This is tought as some kind of Hub for  GM's[/b]
+
+It contains:
+
+[list]
+    [*]  Fast Travel using Roadsigns
+    [*] Generic Wandering NPC's which stay in their respective area.
+    [*] Every vanilla trader for weapons, skillbooks, food, potion crafting, crafting materials... spread accross different parts of the city
+    [*] Castle with a Throneroom, some housing, and a beatiful garden
+    [*] Theater
+    [*] Wash-Service
+    [*] Spa, with regenartive properties (Unless you're undead, that is)
+    [*] One Poor-styled, and rich styled inn, with locked rooms, with keys behind the counter's
+    [*] Two Marketplaces with most of the vanilla traders in them
+    [*] Church
+    [*] Auction House
+    [*] Prison (With working arresting script, for thieves, that get caught)
+    [*] Potion Seller in his own house
+    [*] Art Museum
+    [*] Two Parks
+    [*] Drudnae smoking tent (Yes it's legal in this town, or not. Your choice really)
+    [*] Overground Mine, with entrance into a separate mine map, with secret areas behind destructible walls
+    [*] Island with some ruins, and a bonefire on it
+    [*] Butcher in his own house, with a cellar
+    [*] Paladin Campsite
+    [*] Inn with upstairs for eg. questing
+    [*]  Library, with a lot of scrolls, and  a trader related to anything about elemental skillbooks
+    [*]  Small Crop Area
+    [*]  Guild house, with lots of adventurers in it
+    [*]  Small Lizard Encampment
+    [*]  Lighthouse, that you can go ontop of
+    [*] Sewer System, that follows the basic road design of the map
+[/list] 
+
+[b] And still more![/b]
+
+
+[h1]  What happens if a player steals a red item? [/h1] 
+If a player steals a read item, and does not get caught (No-Line of Sight, and Sneaking) nothing will happen.
+If the player gets caught, he'll get into a dialog that will get him arrested, and stripped of all items.
+The Items are stored in a chest inside the prison.
+
+[h1]  What's this about fast trave? There are no waypoints! [/h1] 
+Fast Travel is done by interacting
