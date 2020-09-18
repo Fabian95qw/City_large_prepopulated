@@ -44,4 +44,5 @@ If the player gets caught, he'll get into a dialog that will get him arrested, a
 The Items are stored in a chest inside the prison.
 
 [h1]  What's this about fast trave? There are no waypoints! [/h1] 
-Fast Travel is done by interacting
+Fast Travel is done by interacting with crossroad signs
+https://raw.githubusercontent.com/Fabian95qw/City_large_prepopulated/master/Steam-Stuff/Screenshots/Fast-Travel.JPG
